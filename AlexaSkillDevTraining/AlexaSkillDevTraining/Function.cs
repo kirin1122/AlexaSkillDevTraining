@@ -8,8 +8,8 @@ using Alexa.NET.Response;
 using Amazon.Lambda.Core;
 
 // Assembly attribute to enable the Lambda function's JSON input to be converted into a .NET class.
-[assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
-
+//[assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
+[assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.Json.JsonSerializer))]
 namespace AlexaSkillDevTraining
 {
     public class Function
@@ -65,7 +65,7 @@ namespace AlexaSkillDevTraining
             switch (ir.Intent.Name) 
             {
                 case "Hello Alexa From CSharp":
-                    msg = messages[new Random().Next(3)];
+                    msg = messages[(new Random()).Next(3)];
                     break;
 
                 default:

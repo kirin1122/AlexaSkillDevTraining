@@ -1,0 +1,9 @@
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\AlexaSkillDevTraining.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\AlexaSkillDevTraining.deps.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\AlexaSkillDevTraining.runtimeconfig.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\AlexaSkillDevTraining.pdb
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\Alexa.NET.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

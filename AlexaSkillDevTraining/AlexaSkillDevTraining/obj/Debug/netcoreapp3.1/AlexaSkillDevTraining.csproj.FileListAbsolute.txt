@@ -16,3 +16,4 @@ D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\obj\Deb
 D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\obj\Debug\netcoreapp3.1\AlexaSkillDevTraining.dll
 D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\obj\Debug\netcoreapp3.1\AlexaSkillDevTraining.pdb
 D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\obj\Debug\netcoreapp3.1\AlexaSkillDevTraining.genruntimeconfig.cache
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\AlexaSkillDevTraining\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.Json.dll
