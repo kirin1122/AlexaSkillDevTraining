@@ -1,0 +1,6 @@
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Training2.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Training2.deps.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Training2.runtimeconfig.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Training2.pdb
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll

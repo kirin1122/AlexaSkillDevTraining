@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaSkillDevTraining", "AlexaSkillDevTraining\AlexaSkillDevTraining.csproj", "{F8A321F1-43DA-466F-A36C-2C4AB108DAE8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecast", "WeatherForecast\WeatherForecast.csproj", "{D079619B-0CE2-429B-B690-6D8E5F514470}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecast.Tests", "WeatherForecast.Tests\WeatherForecast.Tests.csproj", "{B54A9CFC-BC3E-43EB-86A2-0FA44C159FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F8A321F1-43DA-466F-A36C-2C4AB108DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A321F1-43DA-466F-A36C-2C4AB108DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A321F1-43DA-466F-A36C-2C4AB108DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D079619B-0CE2-429B-B690-6D8E5F514470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D079619B-0CE2-429B-B690-6D8E5F514470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D079619B-0CE2-429B-B690-6D8E5F514470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D079619B-0CE2-429B-B690-6D8E5F514470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54A9CFC-BC3E-43EB-86A2-0FA44C159FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54A9CFC-BC3E-43EB-86A2-0FA44C159FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54A9CFC-BC3E-43EB-86A2-0FA44C159FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54A9CFC-BC3E-43EB-86A2-0FA44C159FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

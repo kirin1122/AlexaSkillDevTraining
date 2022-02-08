@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj": {}
+    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\Training2.csproj": {}
   },
   "projects": {
-    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj": {
+    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\Training2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj",
-        "projectName": "AlexaSkillDevTraining",
-        "projectPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj",
+        "projectUniqueName": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\Training2.csproj",
+        "projectName": "Training2",
+        "projectPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\Training2.csproj",
         "packagesPath": "C:\\Users\\y-terada\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\obj\\",
+        "outputPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,17 +43,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Alexa.NET": {
-              "target": "Package",
-              "version": "[1.19.0, )"
-            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[2.1.0, )"
-            },
-            "Amazon.Lambda.Serialization.Json": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             },
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
@@ -76,6 +68,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

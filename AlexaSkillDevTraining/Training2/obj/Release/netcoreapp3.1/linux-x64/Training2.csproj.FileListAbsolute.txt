@@ -1,0 +1,16 @@
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Training2.deps.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Training2.runtimeconfig.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Training2.runtimeconfig.dev.json
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Training2.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Training2.pdb
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.csproj.AssemblyReference.cache
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.AssemblyInfoInputs.cache
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.AssemblyInfo.cs
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.csproj.CoreCompileInputs.cache
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.csproj.CopyComplete
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.dll
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.pdb
+D:\src\AlexaSkillDevTraining\AlexaSkillDevTraining\Training2\obj\Release\netcoreapp3.1\linux-x64\Training2.genruntimeconfig.cache

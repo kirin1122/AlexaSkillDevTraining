@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj": {}
+    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\WeatherForecast\\WeatherForecast.csproj": {}
   },
   "projects": {
-    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj": {
+    "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\WeatherForecast\\WeatherForecast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj",
-        "projectName": "AlexaSkillDevTraining",
-        "projectPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining.csproj",
+        "projectUniqueName": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\WeatherForecast\\WeatherForecast.csproj",
+        "projectName": "WeatherForecast",
+        "projectPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\WeatherForecast\\WeatherForecast.csproj",
         "packagesPath": "C:\\Users\\y-terada\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\obj\\",
+        "outputPath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\WeatherForecast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,20 +40,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "Alexa.NET": {
-              "target": "Package",
-              "version": "[1.19.0, )"
-            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[2.1.0, )"
-            },
-            "Amazon.Lambda.Serialization.Json": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             },
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",

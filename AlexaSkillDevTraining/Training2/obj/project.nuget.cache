@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BgqSxlCSG3j6NBFHc8tOn2FcBCzyqTkSmFUyR3JqCTg11HpxK5GgDmKGjBGLEL0jzxRqC+gyeyffm9c44vZoA==",
+  "success": true,
+  "projectFilePath": "D:\\src\\AlexaSkillDevTraining\\AlexaSkillDevTraining\\Training2\\Training2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y-terada\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\y-terada\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
